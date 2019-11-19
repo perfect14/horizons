@@ -1,0 +1,25 @@
+h1,.purpose{
+	margin-left: 150px;
+
+}
+
+.footer{
+	background-color:  blue;
+	height: 100px;
+}
+.navbar-home{
+	margin-bottom: 0px;
+	border:none;
+}
+
+.para1{
+	color: orange;
+ }
+
+.para2{
+	color: yellow;
+ margin-top: -10px;}
+
+.para3{
+	color: white;
+ margin: -10px;}
